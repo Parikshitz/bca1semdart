@@ -1,4 +1,5 @@
 void main() {
-  double a = 99.090;
-  print(a.toStringAsFixed(2));
+  print("Enter the number of students:");
+  int numberStd;
+  
 }
