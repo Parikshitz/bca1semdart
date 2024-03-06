@@ -1,5 +1,3 @@
-import 'dart:io';
-
 void main() {
   bool test;
   test = 19 > 3;

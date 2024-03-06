@@ -1,5 +1,3 @@
-import 'dart:io';
-
 void main() {
   double b;
   b = 3.97684;
